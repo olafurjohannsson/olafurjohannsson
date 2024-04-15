@@ -1,8 +1,6 @@
 ### Hi there 👋 
 
-# I'm Ólafur Aron Jóhannsson
-
-# Senior Software Engineer
+I'm Ólafur Aron Jóhannsson, a Software Engineer
 
 - I’m currently working at Tern Systems, developing software systems for Air Traffic Control
 - What i mainly use for work is C++, Qt/QML, OpenGL, Python and JavaScript
