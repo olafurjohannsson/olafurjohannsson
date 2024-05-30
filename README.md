@@ -5,3 +5,4 @@ I'm Ólafur Aron Jóhannsson, a Software Engineer with a passion for developing 
 - Interests: Graphics Programming, Computer Vision, Neural Networks and Machine Learning.
 
 
+[CV](https://github.com/olafurjohannsson/cv/blob/main/cv.md)
