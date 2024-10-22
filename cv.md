@@ -6,7 +6,9 @@ I'm Ólafur Aron Jóhannsson, a Software Engineer with a passion for developing 
 
 ## Work Experience:
 
-Tern Systems (2016 - Present) - Software Engineer
+Tern Systems (2024 - Present) - Senior Software Engineer
+
+Tern Systems (2016 - 2024) - Software Engineer
 - Polaris: Aircraft Situation Display using C++, Qt/QML, and OpenGL.
 - Air: Web-based Surveillance Display built using JavaScript d3.js and Python.
 - Datawarehouse: Data and Analysis platform using Django and Python.
