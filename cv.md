@@ -1,7 +1,8 @@
 ## Curriculum Vitae
 
 I'm Ólafur Aron Jóhannsson, a Software Engineer with a passion for developing performant, aesthetically pleasing, user-friendly and intelligent software. Currently, I'm working at Tern Systems, specializing in mission-critical software systems for Air Traffic Control.
-- Technologies I mainly use these days: C++, Qt/QML, OpenGL, Python, JavaScript.
+- Technologies I mainly use these days: C++, Qt/QML, OpenGL, Python and JavaScript.
+- I also am proficient in C#, React, NextJS, TailwindCSS and most manner of SQL languages.
 - Interests: Graphics Programming, Computer Vision, Neural Networks and Machine Learning.
 
 ## Work Experience:
